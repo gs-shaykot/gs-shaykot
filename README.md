@@ -6,9 +6,9 @@
 <p><img align="right" width="400px" height="310px" src="https://github.com/gs-shaykot/gs-logo/blob/main/oie_2864559C7XZtFtS.gif"></img></p>
 - 🔭 I’m currently working on [my portfolio](https://gsshaykot.xyz)
 
-- 🌱 I’m currently learning **Tailwind Framework**
+- 🌱 I’m currently learning **DSA at Phitron.io**
 
-- 🤝 I’m looking for help with **Tailwind**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://gsshaykot.xyz](https://gsshaykot.xyz)
 
