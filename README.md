@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="500" src="https://github.com/gs-shaykot/gs-logo/blob/52b5a0f42d70bb3ff138d94b1ab9f9caf9bf3ec7/oie_2864559C7XZtFtS.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="gs-shaykot" /> </p>
 
-- 🔭 I’m currently working on [MERN] 
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Next.js**
 
