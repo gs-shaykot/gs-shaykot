@@ -1,5 +1,16 @@
 ![GitHub Banner](https://github.com/gs-shaykot/gs-logo/raw/main/git_banner.gif)
 
+---
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsshaykot)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gsshaykot)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11073817)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_gsgo_)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gsshaykot.tech)
+
+---
+
 <h1 align="center">Hi 👋, I'm GS SHAYKOT</h1>
 <h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Enthusiast | 🇧🇩 From Bangladesh</h3> 
 
@@ -11,6 +22,24 @@
 </p>
 
 ---
+---
+<h1 align="center">👨‍💻 About Me</h1> 
+
+<div align="center">
+
+I am a **Junior MERN Stack Developer** currently pursuing a **B.Sc. in Computer Science and Engineering** at **CCN-UST, Cumilla**. My passion for technology drives me to continuously learn and improve my skills. At the moment, I am focused on upgrading my expertise in the **MERN stack**, refining my ability to build scalable and efficient web applications.  
+
+Beyond web development, I have a deep interest in **cybersecurity** and spend my free time learning about ethical hacking, network security, and digital forensics. In the near future, I plan to expand my skill set by diving into **Android app development using Kotlin**. To prepare for that, I have already studied **Data Structures & Algorithms (DSA)** and will continue to revisit and strengthen my understanding of core programming concepts.  
+
+Another area that excites me is **robotics**. I am fascinated by AI-powered automation and have set a goal to build a **mini humanoid AI robot**. This project aligns with my curiosity for hardware integration and artificial intelligence, combining my interests in software and robotics engineering.  
+
+With an ever-growing enthusiasm for technology, I am always eager to learn, build, and innovate. 🚀  
+
+</div>
+
+
+---
+
 <h1 align="center">🔥 Focus Areas</h1>
 <div align="center">
 
@@ -82,16 +111,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsshaykot)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gsshaykot)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11073817)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_gsgo_)
-
----
 
 ### ⚡ Fun Fact
 **"I will hack NASA using HTML"** 🔐
