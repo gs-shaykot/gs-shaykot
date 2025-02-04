@@ -45,8 +45,17 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 415px; height: 195px;margin-right:20px;">
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot" /></p>
+  </div>
+  <div style="width: 415px; height: 195px;">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gs-shaykot&" alt="gs-shaykot" /></p>
+  </div>
+</div>
