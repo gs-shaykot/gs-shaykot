@@ -49,14 +49,20 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact&theme=radical" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
