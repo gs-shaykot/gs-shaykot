@@ -42,12 +42,13 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact" />
-</a>
+</p> 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact" />
+  </a>
+</div>
 
