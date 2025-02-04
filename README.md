@@ -1,25 +1,43 @@
 ![GitHub Banner](https://github.com/gs-shaykot/gs-logo/raw/main/git_banner.gif)
 
 <h1 align="center">Hi 👋, I'm GS SHAYKOT</h1>
-<h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Enthusiast | 🇧🇩 From Bangladesh</h3>
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Enthusiast | 🇧🇩 From Bangladesh</h3> 
 
-<img align="right" alt="coding" width="400" src="https://github.com/gs-shaykot/gs-logo/blob/52b5a0f42d70bb3ff138d94b1ab9f9caf9bf3ec7/oie_2864559C7XZtFtS.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="gs-shaykot" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://github.com/gs-shaykot?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/gs-shaykot?color=green&logo=github">
   </a>
 </p>
 
 ---
+<h1 align="center">🔥 Focus Areas</h1>
+<div align="center">
 
-### 🔥 Current Focus
-- 🔭 Working on **MERN Stack Projects**
-- 🌱 Learning **Next.js & Advanced DSA**
-- 👯 Looking to collaborate on **Open Source MERN Projects**
-- 🚀 2023 Goal: Contribute more to Open Source
+<table style="border: 2px solid black; width: 100%;">
+  <tr>
+    <th style="border: 2px solid black; padding: 10px; text-align: center;">🔥 Current Focus</th>
+    <th style="border: 2px solid black; padding: 10px; text-align: center;">🔥 Upcoming Focus</th>
+  </tr>
+  <tr>
+    <td style="border: 2px solid black; padding: 10px;">🔭 Working on <b>MERN Stack Projects</b></td>
+    <td style="border: 2px solid black; padding: 10px;">🔭 Improving <b>Data Structure & Algorithm</b></td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid black; padding: 10px;">🌱 Learning <b>Next.js & Advanced DSA</b></td>
+    <td style="border: 2px solid black; padding: 10px;">🌱 Exploring <b>Android App Development</b></td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid black; padding: 10px;">👯 Collaborating on <b>Open Source MERN Projects</b></td>
+    <td style="border: 2px solid black; padding: 10px;">👯 Building <b>AI-Powered Web Apps</b></td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid black; padding: 10px;">🚀 2025 Goal: Contribute more to Open Source</td>
+    <td style="border: 2px solid black; padding: 10px;">🚀 2025 Goal: Learn Kotlin</td>
+  </tr>
+</table>
 
+</div>
 ---
 
 ### 🛠️ Tech Stack
@@ -45,6 +63,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
