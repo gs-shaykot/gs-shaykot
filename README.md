@@ -1,54 +1,74 @@
 ![GitHub Banner](https://github.com/gs-shaykot/gs-logo/raw/main/git_banner.gif)
+
 <h1 align="center">Hi 👋, I'm GS SHAYKOT</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="500" src="https://github.com/gs-shaykot/gs-logo/blob/52b5a0f42d70bb3ff138d94b1ab9f9caf9bf3ec7/oie_2864559C7XZtFtS.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="gs-shaykot" /> </p>
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Enthusiast | 🇧🇩 From Bangladesh</h3>
 
-- 🔭 I’m currently working on **MERN**
+<img align="right" alt="coding" width="400" src="https://github.com/gs-shaykot/gs-logo/blob/52b5a0f42d70bb3ff138d94b1ab9f9caf9bf3ec7/oie_2864559C7XZtFtS.gif">
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **MERN**
-
-- 🤝 I’m looking for help with **DSA**
-
-- 💬 Ask me about **C,C++,Web Dev,Cyber Security**
-
-- 📫 How to reach me **https://facebook.com/gsshaykot**
-
-- ⚡ Fun fact **I will hack NASA using HTML**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gsshaykot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsshaykot" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11073817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11073817" height="30" width="40" /></a>
-<a href="https://fb.com/gsshaykot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsshaykot/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_gsgo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_gsgo_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_gsgo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_gsgo_" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="gs-shaykot" /> 
+  <a href="https://github.com/gs-shaykot?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/gs-shaykot?color=green&logo=github">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p> 
-<div style="display: flex; align-items: center; gap: 10px;">
+---
+
+### 🔥 Current Focus
+- 🔭 Working on **MERN Stack Projects**
+- 🌱 Learning **Next.js & Advanced DSA**
+- 👯 Looking to collaborate on **Open Source MERN Projects**
+- 🚀 2023 Goal: Contribute more to Open Source
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&locale=en" alt="gs-shaykot" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gs-shaykot&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-shaykot&layout=compact&theme=radical" />
   </a>
 </div>
 
+---
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsshaykot)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gsshaykot)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11073817)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_gsgo_)
+
+---
+
+### ⚡ Fun Fact
+**"I will hack NASA using HTML"** 🔐
+
+[![GitHub Snake Light](https://raw.githubusercontent.com/gs-shaykot/gs-shaykot/output/github-contribution-grid-snake.svg)](https://github.com/gs-shaykot)
