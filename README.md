@@ -12,7 +12,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm GS SHAYKOT</h1>
-<h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Enthusiast | 🇧🇩 From Bangladesh</h3> 
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cyber Security Hobbyist | 🇧🇩 From Bangladesh</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gs-shaykot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
