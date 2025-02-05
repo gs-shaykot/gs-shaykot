@@ -56,7 +56,7 @@ With an ever-growing enthusiasm for technology, I am always eager to learn, buil
     <td style="border: 2px solid black; padding: 10px;">🌱 Exploring <b>Android App Development</b></td>
   </tr>
   <tr>
-    <td style="border: 2px solid black; padding: 10px;">👯 Collaborating on <b>Open Source MERN Projects</b></td>
+    <td style="border: 2px solid black; padding: 10px;">👯 Building more <b>MERN Projects</b></td>
     <td style="border: 2px solid black; padding: 10px;">👯 Building <b>AI-Powered Web Apps</b></td>
   </tr>
   <tr>
