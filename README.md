@@ -25,7 +25,7 @@
 
 <h1 align="center">👨‍💻 About Me</h1> 
 
-<div align="center">
+<div align="left">
 
 I am a **Junior MERN Stack Developer** currently pursuing a **B.Sc. in Computer Science and Engineering** at **CCN-UST, Cumilla**. My passion for technology drives me to continuously learn and improve my skills. At the moment, I am focused on upgrading my expertise in the **MERN stack**, refining my ability to build scalable and efficient web applications.  
 
