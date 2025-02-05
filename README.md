@@ -52,7 +52,7 @@ With an ever-growing enthusiasm for technology, I am always eager to learn, buil
     <td style="border: 2px solid black; padding: 10px;">🔭 Improving <b>Data Structure & Algorithm</b></td>
   </tr>
   <tr>
-    <td style="border: 2px solid black; padding: 10px;">🌱 Learning <b>Next.js & Advanced DSA</b></td>
+    <td style="border: 2px solid black; padding: 10px;">🌱 Learning <b>Next.js & Interview Topics</b></td>
     <td style="border: 2px solid black; padding: 10px;">🌱 Exploring <b>Android App Development</b></td>
   </tr>
   <tr>
