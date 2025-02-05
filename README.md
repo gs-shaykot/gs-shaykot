@@ -68,7 +68,11 @@ With an ever-growing enthusiasm for technology, I am always eager to learn, buil
 
 </div>
 ---
-
+---
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gs-shaykot&theme=dark&border_radius=10)](https://git.io/streak-stats)
+</div>
+---
 ### 🛠️ Tech Stack
 
 #### Languages
@@ -111,7 +115,10 @@ With an ever-growing enthusiasm for technology, I am always eager to learn, buil
       </a>
     </td>
   </tr>
-</table>
+</table> 
+---
+#### 🔥 Current Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### ⚡ Fun Fact
 **"I will hack NASA using HTML"** 🔐 
