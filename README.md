@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/gs-shaykot/gs-logo/raw/main/git_banner.gif)
+![GitHub Banner](https://github.com/gs-shaykot/gs-logo/blob/main/NewBanner.gif)
 
 ---
 
